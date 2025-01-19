@@ -54,9 +54,9 @@ The application is designed with a modern UI using React and TypeScript, featuri
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/charite-uwatwembi/wallet-web-app>
    ```
-   Replace `<https://github.com/charite-uwatwembi/wallet-web-app>` with the actual GitHub repository URL.
+
 
 2. **Navigate to the Project Directory**:
    ```bash
