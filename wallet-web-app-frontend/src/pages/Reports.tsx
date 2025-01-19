@@ -47,7 +47,7 @@ const Reports: React.FC = () => {
       </aside>
 
       {/* Main Content */}
-      <main className="flex-1 p-8">
+      <main className="flex-1 p-8 mb-6">
         <h1 className="text-2xl font-bold mb-4">Create a new report</h1>
         <p className="text-gray-600 mb-8">
           Select the time range and accounts you’d like to include in this report. You can also
