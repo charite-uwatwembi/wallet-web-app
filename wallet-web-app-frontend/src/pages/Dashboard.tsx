@@ -40,6 +40,7 @@ const Dashboard = () => {
 
   return (
     <div className="sm:px-32 p-6 py-8 bg-gray-100 min-h-screen">
+      <h1 className="text-3xl font-bold mb-4">Hi There, Let's get your finances in order!</h1>
       {/* Top Section */}
       <div className="grid grid-cols-1 md:grid-cols-5 gap-6 mb-8">
         {[
