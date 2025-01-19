@@ -67,6 +67,22 @@ const Navigation: React.FC = () => {
             Reports
           </Link>
           <Link
+            to="/linking"
+            className={`text-gray-600 hover:text-blue-600 transition duration-200 ${
+              location.pathname === "/reports" ? "active-link" : ""
+            }`}
+          >
+            LinkingExpenses
+          </Link>
+          <Link
+            to="/categories"
+            className={`text-gray-600 hover:text-blue-600 transition duration-200 ${
+              location.pathname === "/reports" ? "active-link" : ""
+            }`}
+          >
+            Categories
+          </Link>
+          <Link
             to="/budgets"
             className={`text-gray-600 hover:text-blue-600 transition duration-200 ${
               location.pathname === "/budgets" ? "active-link" : ""
