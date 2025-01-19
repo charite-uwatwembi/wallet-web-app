@@ -54,7 +54,7 @@ The application is designed with a modern UI using React and TypeScript, featuri
 
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/charite-uwatwembi/wallet-web-app>
+   git clone https://github.com/charite-uwatwembi/wallet-web-app
    ```
 
 
