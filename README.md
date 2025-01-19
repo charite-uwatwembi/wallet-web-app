@@ -28,7 +28,8 @@ This wallet web application provides the following functionalities:
 The application is designed with a modern UI using React and TypeScript, featuring animations and responsiveness for an intuitive user experience.
 
 ---
-
+## Deployed link
+[Deployed link](wallet-web-app-22kq.vercel.app)
 ## How to Start the Project
 
 ### Prerequisites
@@ -88,11 +89,6 @@ The application is designed with a modern UI using React and TypeScript, featuri
 
 ---
 
-### Optional: Deployment on Netlify
-
-1. Push your project to a GitHub repository.
-2. Log in to your [Netlify dashboard](https://www.netlify.com/).
-3. Follow the instructions to import your repository and configure the build settings.
 
 ---
 
