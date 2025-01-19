@@ -29,7 +29,7 @@ The application is designed with a modern UI using React and TypeScript, featuri
 
 ---
 ## Deployed link
-[Deployed link](wallet-web-app-22kq.vercel.app)
+[Deployed link](https://wallet-web-app-22kq.vercel.app/)
 ## How to Start the Project
 
 ### Prerequisites
