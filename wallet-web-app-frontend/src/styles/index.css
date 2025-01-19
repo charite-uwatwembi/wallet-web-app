@@ -1,0 +1,32 @@
+/* Reset using modern-normalize */
+@import "modern-normalize";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styles */
+body {
+  font-family: 'Roboto', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+  overflow-x: hidden;
+}
+.active-link {
+  background-color: bg-blue-600;
+  color: text-white;
+}
+/* Utility classes */
+.container {
+  padding: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+}
