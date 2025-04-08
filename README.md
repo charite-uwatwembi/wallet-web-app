@@ -1,8 +1,8 @@
 # Wallet Web Application
 
-## What to Expect in this Project
+## What to Expect in this project
 
-This wallet web application provides the following functionalities:
+The wallet web application provides the following functionalities:
 
 1. **Dashboard Screen**:
    - Overview of accounts, recent transactions, and budget status with visualizations.
