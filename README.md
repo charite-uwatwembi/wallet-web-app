@@ -1,6 +1,6 @@
-# Wallet Web Application
+# Wallet Web App 
 
-## What to Expect in this project
+## What to Expect in this web app project
 
 The wallet web application provides the following functionalities:
 
