@@ -1,4 +1,4 @@
-# Wallet Web App 
+# Wallet Web Application 
 
 ## What to Expect in this web app project
 
