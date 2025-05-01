@@ -25,7 +25,7 @@ The wallet web application provides the following functionalities:
 7. **Profile and Settings**:
    - Customize user profiles and configure app settings.
 
-This  application is designed with a modern UI using React and TypeScript, featuring animations and responsiveness for an intuitive user experience.
+This web application is designed with a modern UI using React and TypeScript, featuring animations and responsiveness for an intuitive user experience.
 
 ---
 ## Deployed link
